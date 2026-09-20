@@ -57,6 +57,16 @@ The sentiment model was trained on a public food-review dataset and evaluated on
 | `food_reviews.csv` | Public Kaggle dataset of 1,000 labeled food reviews (liked / not liked) | Training and testing the sentiment model |
 | `restaurant_reviews.csv` | Small custom dataset of 107 reviews for two restaurants (Urban Bites and Spice Garden) | Cross-dataset validation and business analysis |
 
+## Dataset Attribution
+
+The sentiment analysis model was trained using a 1,000-review restaurant sentiment dataset sourced from Kaggle.
+
+The dataset is licensed under the Open Data Commons Database Contents License (DbCL) v1.0.
+
+License: https://opendatacommons.org/licenses/dbcl/1-0/
+
+The dataset is included in this repository for demonstrating the sentiment analysis component of the Restaurant Decision Intelligence Platform.
+
 ## Outputs
 
 Running the analysis creates three CSV files in the `data/` folder:
