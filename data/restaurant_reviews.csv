@@ -1,0 +1,108 @@
+restaurant,rating,review,sentiment
+Urban Bites,4.5,The food was delicious and the service was excellent,positive
+Spice Garden,4.5,Amazing food and friendly staff,positive
+Urban Bites,4.0,Great food and quick service,positive
+Spice Garden,4.0,Good food and friendly staff,positive
+Urban Bites,4.5,The meal was fresh and tasty,positive
+Spice Garden,4.5,Excellent taste and wonderful service,positive
+Urban Bites,4.0,Very good food and reasonable prices,positive
+Spice Garden,4.0,The food was fresh and delicious,positive
+Urban Bites,4.5,Fast delivery and great food,positive
+Spice Garden,4.5,Really enjoyed the food and service,positive
+Urban Bites,4.0,The portions were generous and tasty,positive
+Spice Garden,4.0,Good quality food and polite staff,positive
+Urban Bites,4.5,Excellent experience and delicious food,positive
+Spice Garden,4.5,The staff was friendly and helpful,positive
+Urban Bites,4.0,Food arrived hot and tasted great,positive
+Spice Garden,4.0,Quick service and tasty food,positive
+Urban Bites,4.5,The prices were reasonable for the quality,positive
+Spice Garden,4.5,Fresh food and excellent service,positive
+Urban Bites,4.0,Really good taste and fast delivery,positive
+Spice Garden,4.0,The meal was delicious and satisfying,positive
+Urban Bites,4.5,Great portion size and excellent taste,positive
+Spice Garden,4.5,Very friendly staff and amazing food,positive
+Urban Bites,4.0,Quick delivery and fresh food,positive
+Spice Garden,4.0,Good experience with excellent service,positive
+Urban Bites,4.5,The food was hot and delicious,positive
+Spice Garden,4.5,Very tasty food and reasonable prices,positive
+Urban Bites,4.0,The service was quick and professional,positive
+Spice Garden,4.0,Excellent meal and friendly service,positive
+Urban Bites,4.5,Fresh ingredients and great taste,positive
+Spice Garden,4.5,The food was wonderful and service was fast,positive
+Urban Bites,4.0,Good food at a reasonable price,positive
+Spice Garden,4.0,Very good food and helpful staff,positive
+Urban Bites,4.5,Fast service and delicious meal,positive
+Spice Garden,4.5,Excellent food quality and friendly staff,positive
+Urban Bites,4.0,The meal was fresh and arrived quickly,positive
+Spice Garden,4.0,Great taste and good service,positive
+Urban Bites,4.5,Really happy with the food and service,positive
+Spice Garden,4.5,Delicious meal and quick delivery,positive
+Urban Bites,4.0,The staff was polite and the food was tasty,positive
+Spice Garden,4.0,Good portions and excellent taste,positive
+Urban Bites,4.5,Great service and fresh food,positive
+Spice Garden,4.5,Very tasty meal and friendly staff,positive
+Urban Bites,4.0,Quick delivery and reasonable prices,positive
+Spice Garden,4.0,Fresh food and polite service,positive
+Urban Bites,4.5,Excellent food and generous portions,positive
+Spice Garden,4.5,Great food with fast service,positive
+Urban Bites,4.0,The food tasted fresh and delicious,positive
+Spice Garden,4.0,Good quality and reasonable prices,positive
+Urban Bites,4.5,Wonderful food and excellent service,positive
+Spice Garden,4.5,The meal was hot fresh and delicious,positive
+Urban Bites,2.5,Food was cold and delivery was very slow,negative
+Spice Garden,2.0,The food was cold when served,negative
+Urban Bites,2.0,The food was expensive and portions were small,negative
+Spice Garden,2.5,Food was good but service was slow,negative
+Urban Bites,1.5,Staff was rude and the food was cold,negative
+Urban Bites,2.5,My meal arrived cold,negative
+Urban Bites,2.0,The food was not hot when it arrived,negative
+Spice Garden,2.0,Delivery was very slow,negative
+Urban Bites,2.5,Delivery took too long,negative
+Spice Garden,2.5,The portion was too small,negative
+Urban Bites,1.5,The order arrived very late,negative
+Spice Garden,2.0,Prices are too high,negative
+Urban Bites,2.0,The prices are too expensive,negative
+Spice Garden,1.5,The staff was rude,negative
+Urban Bites,2.5,Food is costly compared to other restaurants,negative
+Urban Bites,2.0,The portion size was very small,negative
+Spice Garden,2.5,The service was extremely slow,negative
+Urban Bites,1.5,Very small portions for the price,negative
+Spice Garden,2.0,The food arrived cold,negative
+Urban Bites,2.0,The staff was rude and unhelpful,negative
+Spice Garden,2.5,Delivery took far too long,negative
+Urban Bites,2.5,Staff behavior was rude,negative
+Spice Garden,2.0,The food was overpriced,negative
+Urban Bites,2.0,The delivery was very late,negative
+Spice Garden,2.5,The portion size was disappointing,negative
+Urban Bites,1.5,The food was cold and tasteless,negative
+Spice Garden,2.0,The staff was unfriendly,negative
+Urban Bites,2.5,The delivery service was poor,negative
+Spice Garden,1.5,My food was cold and the service was bad,negative
+Urban Bites,2.0,The prices are too high,negative
+Spice Garden,2.5,The order arrived very late,negative
+Urban Bites,1.5,The staff treated us rudely,negative
+Spice Garden,2.0,The food was too expensive,negative
+Urban Bites,2.5,The food was not fresh,negative
+Spice Garden,2.5,The delivery was slow and disappointing,negative
+Urban Bites,2.0,The portion was much too small,negative
+Spice Garden,1.5,The staff was rude and unhelpful,negative
+Urban Bites,2.5,My order took too long to arrive,negative
+Spice Garden,2.0,The food was cold and expensive,negative
+Urban Bites,1.5,Very poor service and rude staff,negative
+Spice Garden,2.5,The portions were too small,negative
+Urban Bites,2.0,The meal was cold when it arrived,negative
+Spice Garden,1.5,The delivery was extremely late,negative
+Urban Bites,2.5,The food quality was disappointing,negative
+Spice Garden,2.0,The prices were unreasonable,negative
+Urban Bites,1.5,Very slow delivery and cold food,negative
+Spice Garden,2.5,The staff behaved badly,negative
+Urban Bites,2.0,The meal was overpriced,negative
+Spice Garden,1.5,The food was not hot and service was slow,negative
+Urban Bites,2.5,The food was average and delivery was late,negative
+Spice Garden,2.0,Small portions and high prices,negative
+Urban Bites,1.5,Extremely rude staff,negative
+Spice Garden,2.5,The meal arrived cold,negative
+Urban Bites,2.0,Slow delivery and poor service,negative
+Spice Garden,1.5,Very expensive food and small portions,negative
+Urban Bites,2.5,The order was late and the food was cold,negative
+Spice Garden,2.0,The service was poor and slow,negative
